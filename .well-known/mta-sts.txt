@@ -1,7 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mx0.mail.ovh.net
-mx: mx1.mail.ovh.net
-mx: mx2.mail.ovh.net
-mx: mx3.mail.ovh.net
+mx: mail.protonmail.ch
+mx: mailsec.protonmail.ch
 max_age: 604800
